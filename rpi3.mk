@@ -67,10 +67,6 @@ PRODUCT_PACKAGES += \
     android.hardware.graphics.mapper@2.0-impl \
     android.hardware.memtrack@1.0-impl \
     android.hardware.memtrack@1.0-service \
-    libEGL_swiftshader \
-    libGLESv1_CM_swiftshader \
-    libGLESv2_swiftshader \
-    libyuv \
     memtrack.rpi3
 #    gralloc.rpi3 \
 #    hwcomposer.rpi3 \
